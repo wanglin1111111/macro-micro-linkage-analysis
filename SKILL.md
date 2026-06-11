@@ -1,11 +1,11 @@
-# SKILL.md - 宏观中观微观三层联动分析技能
+﻿# SKILL.md - 宏观中观微观三层联动分析技能
 
 ---
-skill_name: "macro-micro-linkage-analysis"
-skill_version: "1.0.0"
-skill_author: "AutoClaw"
-skill_created: "2026-05-24"
-skill_description: "宏观-中观-微观三层联动分析框架，用于深度解读市场信号、识别预期差、发现结构性机会"
+name: "macro-micro-linkage-analysis"
+version: "1.0.0"
+author: "AutoClaw"
+created: "2026-05-24"
+description: "宏观-中观-微观三层联动分析框架，用于深度解读市场信号、识别预期差、发现结构性机会"
 ---
 
 ## 技能定位
@@ -341,3 +341,4 @@ const analysis = await invokeSkill('macro-micro-linkage-analysis', {
 ## 版本历史
 
 - **v1.0.0** (2026-05-24): 初始版本，基于直播内容提炼三层联动框架
+
