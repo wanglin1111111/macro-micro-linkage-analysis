@@ -1,13 +1,11 @@
-﻿# SKILL.md - 宏观中观微观三层联动分析技能
-
----
-name: "macro-micro-linkage-analysis"
+﻿---
+name: macro-micro-linkage-analysis
 version: "1.0.0"
-author: "AutoClaw"
+author: wanglin1111111
 created: "2026-05-24"
 description: "宏观-中观-微观三层联动分析框架，用于深度解读市场信号、识别预期差、发现结构性机会"
 ---
-
+# SKILL.md - 宏观中观微观三层联动分析技能
 ## 技能定位
 
 **核心价值**：突破单一维度分析局限，建立宏观政策→行业板块→个股标的的完整传导链，识别预期差和结构性机会。

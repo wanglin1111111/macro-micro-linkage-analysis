@@ -1,7 +1,7 @@
 ﻿---
-name: "macro-micro-linkage-analysis"
+name: skills
 version: "1.0.0"
-author: "AutoClaw"
+author: wanglin1111111
 created: "2026-05-24"
 description: "宏观-中观-微观三层联动分析框架，用于深度解读市场信号、识别预期差、发现结构性机会"
 ---
